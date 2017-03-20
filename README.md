@@ -6,8 +6,7 @@ Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/
  - Place a image in `/img/services/`
  - Create posts to display your services. Use the follow as an example:
 
-```txt
----
+``` txt
 layout: default
 img: ipad.png
 category: Services

@@ -5,13 +5,9 @@
 url: http://novahale.com
 title: Novahale Technologies
 email: info@novahale.com
-author: novahale
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2016 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+author: Bekir Oguz
+description: Novahale Technologies BV is your trustable partner in building enterprise system integrations, high traffic distributed services, etc...
+copyright: 'Copyright &copy; 2016 Novahale Technologies BV. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,8 +23,10 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/bekiroguzz
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/novahale
+  - title: email
+    url: mailto:info@novahale.com
+#  - title: linkedin
+#    url:
